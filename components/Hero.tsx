@@ -53,7 +53,7 @@ const Hero = () => {
           </div>
 
           {/* Profile Image */}
-          <div className="p-5 rounded-full bg-[#2c2c2c] shadow-lg translate-y-[-20px] ml-20 hover:shadow-2xl transition-shadow duration-300">
+          <div className="ml-0 md:ml-20 p-5 rounded-full bg-[#2c2c2c] shadow-lg translate-y-[-20px] hover:shadow-2xl transition-shadow duration-300">
             <Image
               src="/images/profile.jpg"
               alt="Profile"
